@@ -1,0 +1,15 @@
+{
+  "name": "challenge-w1-1",
+  "version": "1.0.0",
+  "description": "Web HTML por parejas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego y Angelo",
+  "license": "ISC",
+  "type": "module",
+  "prettier": {
+    "singleQuote": true
+  }
+}
