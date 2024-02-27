@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Diego y Angelo",
+  "author": "Diego, Antonio y Angelo",
   "license": "ISC",
   "type": "module",
   "prettier": {
